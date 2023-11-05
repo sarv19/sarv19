@@ -21,19 +21,19 @@
 
 ###
 
-<h2 align="center" style="border:none">Hey👋! It's me, Sarah</h2>
+<h2 align="center" >Hey👋! It's me, Sarah</h2>
 
 ###
 
-<p align="center" style="padding-bottom: 16px;border-bottom:1px solid rgb(230, 225, 225, 0.1);">🚀 Full-stack engineer with a dash of code magic! 🪄💻</p>
+<p align="center">🚀 Full-stack engineer with a dash of code magic! 🪄💻</p>
 
 ###
 
-<h3 align="left">🛠️ Tech stack</h3>
+<h2 align="left">🛠️ Tech stack</h2>
 
 ###
 
-<div align="center" style="padding-bottom: 16px;border-bottom:1px solid rgb(230, 225, 225, 0.1);">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -77,7 +77,7 @@
 
 ###
 
-<h3 align="left">🔥 My stats:</h3>
+<h2 align="left">🔥 My stats:</h2>
 
 ###
 
