@@ -21,11 +21,11 @@
 
 ###
 
-<h2 align="center">Hey👋! It's me, Sarah</h2>
+<h2 align="center" style="border:none">Hey👋! It's me, Sarah</h2>
 
 ###
 
-<p align="center">🚀 Full-stack engineer with a dash of code magic! 🪄💻</p>
+<p align="center" style="padding-bottom: 16px;border-bottom:1px solid rgb(230, 225, 225, 0.1);">🚀 Full-stack engineer with a dash of code magic! 🪄💻</p>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="padding-bottom: 16px;border-bottom:1px solid rgb(230, 225, 225, 0.1);">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
