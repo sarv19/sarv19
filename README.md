@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://img.freepik.com/free-vector/software-programmer-girl-office-work-vector-design_107791-20453.jpg?w=1480&t=st=1699197143~exp=1699197743~hmac=16a88a9d9c78a6abad352010c4f93137e6a61f00e9512be878fa3e321480509f"  />
+  <img height="200" src="./image.jpg"  />
 </div>
 
 ###
