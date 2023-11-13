@@ -17,7 +17,7 @@
   <!-- <a href="https://www.instagram.com/sarahh_v19/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
   </a> -->
-  <a href="./NhuVo_Resume.pdf" target="_blank">
+  <a href="./SarahVo_Resume" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="resume logo"  />
   </a>
 </div>
