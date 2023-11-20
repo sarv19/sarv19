@@ -12,12 +12,12 @@
   <a href="mailto:vongocquynhnhu@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
+  <a href="https://sarv19.github.io" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=gitea&label=&color=white&logoColor=022428&labelColor=&style=for-the-badge" height="20" alt="portfolio logo"  />
+  </a>
   <a href="https://www.facebook.com/sarah.alison.v19/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
   </a>
-  <!-- <a href="https://www.instagram.com/sarahh_v19/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
-  </a> -->
   <a href="./SarahVo_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="resume logo"  />
   </a>
