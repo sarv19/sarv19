@@ -91,7 +91,6 @@
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/sarv19/sarv19/output/snake.svg" alt="Snake animation" />
 
 ###
