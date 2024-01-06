@@ -12,7 +12,7 @@
   <a href="mailto:vongocquynhnhu@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
-  <a href="https://sarv19.github.io" target="_blank">
+  <a href="https://sarahvo.net" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=gitea&label=&color=white&logoColor=022428&labelColor=&style=for-the-badge" height="20" alt="portfolio logo"  />
   </a>
   <a href="https://www.facebook.com/sarah.alison.v19/" target="_blank">
