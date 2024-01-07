@@ -15,11 +15,11 @@
   <a href="https://sarahvo.net?utm_source=github" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=gitea&label=&color=white&logoColor=022428&labelColor=&style=for-the-badge" height="20" alt="portfolio logo"  />
   </a>
+  <a href="https://www.sarahvo.net/SarahVo_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="resume logo"  />
+  </a>
   <a href="https://www.facebook.com/sarah.alison.v19/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
-  </a>
-  <a href="./SarahVo_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="resume logo"  />
   </a>
 </div>
 
