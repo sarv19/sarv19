@@ -1450,11 +1450,13 @@
       <title>14 contributions on July 22, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.87859;0.87959;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="772" y="84" width="10" height="10" rx="2">
-      <title>3 contributions on July 23, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.88097;0.88197;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-3" x="772" y="84" width="10" height="10" rx="2">
+      <title>29 contributions on July 23, 2026</title>
+      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.88097;0.88197;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="772" y="98" width="10" height="10" rx="2">
+    <rect class="cell level-1" x="772" y="98" width="10" height="10" rx="2">
+      <title>2 contributions on July 24, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.88811;0.88911;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="772" y="112" width="10" height="10" rx="2">
     </rect>
