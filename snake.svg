@@ -1449,10 +1449,12 @@
       <title>10 contributions on July 29, 2026</title>
       <animate attributeName="fill" values="#9be9a8;#9be9a8;#ebedf0;#ebedf0;#9be9a8" keyTimes="0;0.87859;0.87959;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="772" y="84" width="10" height="10" rx="2">
-      <title>No contributions on July 30, 2026</title>
+    <rect class="cell level-3" x="772" y="84" width="10" height="10" rx="2">
+      <title>31 contributions on July 30, 2026</title>
+      <animate attributeName="fill" values="#30a14e;#30a14e;#ebedf0;#ebedf0;#30a14e" keyTimes="0;0.88097;0.88197;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="772" y="98" width="10" height="10" rx="2">
+      <title>No contributions on July 31, 2026</title>
     </rect>
     <rect class="cell level-0" x="772" y="112" width="10" height="10" rx="2">
     </rect>
