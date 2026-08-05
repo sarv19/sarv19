@@ -1438,11 +1438,12 @@
     <rect class="cell level-0" x="772" y="42" width="10" height="10" rx="2">
       <title>No contributions on August 3, 2026</title>
     </rect>
-    <rect class="cell level-1" x="772" y="56" width="10" height="10" rx="2">
-      <title>5 contributions on August 4, 2026</title>
-      <animate attributeName="fill" values="#9be9a8;#9be9a8;#ebedf0;#ebedf0;#9be9a8" keyTimes="0;0.86670;0.86770;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-3" x="772" y="56" width="10" height="10" rx="2">
+      <title>33 contributions on August 4, 2026</title>
+      <animate attributeName="fill" values="#30a14e;#30a14e;#ebedf0;#ebedf0;#30a14e" keyTimes="0;0.86670;0.86770;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="772" y="70" width="10" height="10" rx="2">
+      <title>No contributions on August 5, 2026</title>
     </rect>
     <rect class="cell level-0" x="772" y="84" width="10" height="10" rx="2">
     </rect>
