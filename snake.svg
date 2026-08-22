@@ -1450,10 +1450,12 @@
       <title>35 contributions on August 20, 2026</title>
       <animate attributeName="fill" values="#30a14e;#30a14e;#ebedf0;#ebedf0;#30a14e" keyTimes="0;0.88097;0.88197;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="772" y="98" width="10" height="10" rx="2">
-      <title>No contributions on August 21, 2026</title>
+    <rect class="cell level-3" x="772" y="98" width="10" height="10" rx="2">
+      <title>30 contributions on August 21, 2026</title>
+      <animate attributeName="fill" values="#30a14e;#30a14e;#ebedf0;#ebedf0;#30a14e" keyTimes="0;0.88811;0.88911;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="772" y="112" width="10" height="10" rx="2">
+      <title>No contributions on August 22, 2026</title>
     </rect>
   </g>
   <g aria-label="Contribution intensity legend">
