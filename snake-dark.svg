@@ -37,19 +37,19 @@
     .calendar-label { fill: #8b949e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; }
   </style>
   <g aria-label="Calendar labels">
-    <text class="calendar-label" x="44" y="16">Aug</text>
-    <text class="calendar-label" x="58" y="16">Sep</text>
-    <text class="calendar-label" x="114" y="16">Oct</text>
-    <text class="calendar-label" x="170" y="16">Nov</text>
-    <text class="calendar-label" x="240" y="16">Dec</text>
-    <text class="calendar-label" x="296" y="16">Jan</text>
-    <text class="calendar-label" x="352" y="16">Feb</text>
-    <text class="calendar-label" x="408" y="16">Mar</text>
-    <text class="calendar-label" x="478" y="16">Apr</text>
-    <text class="calendar-label" x="534" y="16">May</text>
-    <text class="calendar-label" x="604" y="16">Jun</text>
-    <text class="calendar-label" x="660" y="16">Jul</text>
-    <text class="calendar-label" x="716" y="16">Aug</text>
+    <text class="calendar-label" x="44" y="16">Sep</text>
+    <text class="calendar-label" x="100" y="16">Oct</text>
+    <text class="calendar-label" x="156" y="16">Nov</text>
+    <text class="calendar-label" x="226" y="16">Dec</text>
+    <text class="calendar-label" x="282" y="16">Jan</text>
+    <text class="calendar-label" x="338" y="16">Feb</text>
+    <text class="calendar-label" x="394" y="16">Mar</text>
+    <text class="calendar-label" x="464" y="16">Apr</text>
+    <text class="calendar-label" x="520" y="16">May</text>
+    <text class="calendar-label" x="590" y="16">Jun</text>
+    <text class="calendar-label" x="646" y="16">Jul</text>
+    <text class="calendar-label" x="702" y="16">Aug</text>
+    <text class="calendar-label" x="772" y="16">Sep</text>
     <text class="calendar-label" x="36" y="51" text-anchor="end">Mon</text>
     <text class="calendar-label" x="36" y="79" text-anchor="end">Wed</text>
     <text class="calendar-label" x="36" y="107" text-anchor="end">Fri</text>
@@ -57,1405 +57,1395 @@
   <path id="snake-route" d="M63 75 L77 75 L91 75 L105 75 L119 75 L133 75 L147 75 L147 89 L147 103 L161 103 L175 103 L189 103 L203 103 L203 117 L189 117 L175 117 L161 117 L147 117 L133 117 L133 103 L133 89 L119 89 L105 89 L91 89 L77 89 L63 89 L63 103 L77 103 L91 103 L105 103 L119 103 L119 117 L105 117 L91 117 L77 117 L63 117 L49 117 L49 103 L49 89 L49 75 L49 61 L63 61 L63 47 L49 47 L49 33 L63 33 L77 33 L77 47 L77 61 L91 61 L105 61 L119 61 L133 61 L147 61 L147 47 L133 47 L119 47 L105 47 L91 47 L91 33 L105 33 L119 33 L133 33 L147 33 L161 33 L161 47 L161 61 L161 75 L161 89 L175 89 L189 89 L203 89 L203 75 L189 75 L175 75 L175 61 L189 61 L203 61 L217 61 L217 75 L217 89 L217 103 L217 117 L231 117 L231 103 L231 89 L231 75 L231 61 L231 47 L217 47 L203 47 L189 47 L175 47 L175 33 L189 33 L203 33 L217 33 L231 33 L245 33 L245 47 L245 61 L245 75 L245 89 L245 103 L245 117 L259 117 L259 103 L259 89 L259 75 L259 61 L273 61 L273 75 L273 89 L273 103 L273 117 L287 117 L287 103 L287 89 L287 75 L287 61 L301 61 L301 75 L301 89 L301 103 L301 117 L315 117 L315 103 L315 89 L315 75 L315 61 L329 61 L329 75 L329 89 L329 103 L329 117 L343 117 L343 103 L343 89 L343 75 L343 61 L343 47 L329 47 L315 47 L301 47 L287 47 L273 47 L259 47 L259 33 L273 33 L287 33 L301 33 L315 33 L329 33 L343 33 L357 33 L357 47 L357 61 L357 75 L357 89 L357 103 L357 117 L371 117 L371 103 L371 89 L371 75 L371 61 L371 47 L371 33 L385 33 L385 47 L385 61 L385 75 L385 89 L385 103 L385 117 L399 117 L399 103 L399 89 L399 75 L399 61 L399 47 L399 33 L413 33 L413 47 L413 61 L413 75 L413 89 L413 103 L413 117 L427 117 L427 103 L427 89 L427 75 L427 61 L427 47 L427 33 L441 33 L441 47 L441 61 L441 75 L441 89 L441 103 L441 117 L455 117 L455 103 L455 89 L455 75 L455 61 L455 47 L455 33 L469 33 L469 47 L469 61 L469 75 L469 89 L469 103 L469 117 L483 117 L483 103 L483 89 L483 75 L483 61 L483 47 L483 33 L497 33 L497 47 L497 61 L497 75 L497 89 L497 103 L497 117 L511 117 L511 103 L511 89 L511 75 L511 61 L511 47 L511 33 L525 33 L525 47 L525 61 L525 75 L525 89 L525 103 L525 117 L539 117 L539 103 L539 89 L539 75 L539 61 L539 47 L539 33 L553 33 L553 47 L553 61 L553 75 L553 89 L553 103 L553 117 L567 117 L567 103 L567 89 L567 75 L567 61 L567 47 L567 33 L581 33 L581 47 L581 61 L581 75 L581 89 L581 103 L581 117 L595 117 L595 103 L595 89 L595 75 L595 61 L595 47 L595 33 L609 33 L609 47 L609 61 L609 75 L609 89 L609 103 L609 117 L623 117 L623 103 L623 89 L637 89 L637 103 L637 117 L651 117 L665 117 L679 117 L679 103 L665 103 L651 103 L651 89 L665 89 L679 89 L679 75 L665 75 L651 75 L637 75 L623 75 L623 61 L623 47 L623 33 L637 33 L637 47 L637 61 L651 61 L665 61 L679 61 L693 61 L693 75 L693 89 L693 103 L693 117 L707 117 L721 117 L735 117 L735 103 L721 103 L707 103 L707 89 L707 75 L707 61 L707 47 L693 47 L679 47 L665 47 L651 47 L651 33 L665 33 L679 33 L693 33 L707 33 L721 33 L721 47 L721 61 L721 75 L721 89 L735 89 L735 75 L735 61 L735 47 L735 33 L749 33 L749 47 L763 47 L763 33 L777 33 L777 47 L777 61 L763 61 L749 61 L749 75 L763 75 L777 75 L777 89 L763 89 L763 103 L777 103 L777 117 L763 117 L749 117 L749 103 L749 89" fill="none" stroke="none"/>
   <g aria-label="Contribution cells">
     <rect class="cell level-0" x="44" y="28" width="10" height="10" rx="2">
-      <title>No contributions on August 31, 2025</title>
-    </rect>
-    <rect class="cell level-0" x="44" y="42" width="10" height="10" rx="2">
-      <title>No contributions on September 1, 2025</title>
-    </rect>
-    <rect class="cell level-1" x="44" y="56" width="10" height="10" rx="2">
-      <title>10 contributions on September 2, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.11514;0.11614;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="44" y="70" width="10" height="10" rx="2">
-      <title>19 contributions on September 3, 2025</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.11276;0.11376;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="44" y="84" width="10" height="10" rx="2">
-      <title>12 contributions on September 4, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.11038;0.11138;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="44" y="98" width="10" height="10" rx="2">
-      <title>5 contributions on September 5, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.10800;0.10900;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-0" x="44" y="112" width="10" height="10" rx="2">
-      <title>No contributions on September 6, 2025</title>
-    </rect>
-    <rect class="cell level-0" x="58" y="28" width="10" height="10" rx="2">
       <title>No contributions on September 7, 2025</title>
     </rect>
-    <rect class="cell level-2" x="58" y="42" width="10" height="10" rx="2">
+    <rect class="cell level-2" x="44" y="42" width="10" height="10" rx="2">
       <title>16 contributions on September 8, 2025</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.11989;0.12089;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.12227;0.12327;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="44" y="56" width="10" height="10" rx="2">
+      <title>6 contributions on September 9, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.11514;0.11614;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="44" y="70" width="10" height="10" rx="2">
+      <title>13 contributions on September 10, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.11276;0.11376;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="44" y="84" width="10" height="10" rx="2">
+      <title>6 contributions on September 11, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.11038;0.11138;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-2" x="44" y="98" width="10" height="10" rx="2">
+      <title>15 contributions on September 12, 2025</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.10800;0.10900;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-0" x="44" y="112" width="10" height="10" rx="2">
+      <title>No contributions on September 13, 2025</title>
+    </rect>
+    <rect class="cell level-0" x="58" y="28" width="10" height="10" rx="2">
+      <title>No contributions on September 14, 2025</title>
+    </rect>
+    <rect class="cell level-1" x="58" y="42" width="10" height="10" rx="2">
+      <title>13 contributions on September 15, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.11989;0.12089;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="58" y="56" width="10" height="10" rx="2">
-      <title>6 contributions on September 9, 2025</title>
+      <title>13 contributions on September 16, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.11751;0.11851;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="58" y="70" width="10" height="10" rx="2">
-      <title>13 contributions on September 10, 2025</title>
+      <title>8 contributions on September 17, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.02000;0.02100;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="58" y="84" width="10" height="10" rx="2">
-      <title>6 contributions on September 11, 2025</title>
+      <title>12 contributions on September 18, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.07946;0.08046;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="58" y="98" width="10" height="10" rx="2">
-      <title>15 contributions on September 12, 2025</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.08184;0.08284;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="58" y="98" width="10" height="10" rx="2">
+      <title>5 contributions on September 19, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.08184;0.08284;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="58" y="112" width="10" height="10" rx="2">
-      <title>No contributions on September 13, 2025</title>
+      <title>No contributions on September 20, 2025</title>
     </rect>
     <rect class="cell level-0" x="72" y="28" width="10" height="10" rx="2">
-      <title>No contributions on September 14, 2025</title>
+      <title>No contributions on September 21, 2025</title>
     </rect>
     <rect class="cell level-1" x="72" y="42" width="10" height="10" rx="2">
-      <title>13 contributions on September 15, 2025</title>
+      <title>6 contributions on September 22, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.13178;0.13278;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="72" y="56" width="10" height="10" rx="2">
-      <title>13 contributions on September 16, 2025</title>
+      <title>7 contributions on September 23, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.13416;0.13516;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="72" y="70" width="10" height="10" rx="2">
-      <title>8 contributions on September 17, 2025</title>
+      <title>9 contributions on September 24, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.02238;0.02338;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="72" y="84" width="10" height="10" rx="2">
-      <title>12 contributions on September 18, 2025</title>
+      <title>12 contributions on September 25, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.07708;0.07808;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="72" y="98" width="10" height="10" rx="2">
-      <title>5 contributions on September 19, 2025</title>
+      <title>3 contributions on September 26, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.08422;0.08522;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="72" y="112" width="10" height="10" rx="2">
-      <title>No contributions on September 20, 2025</title>
+      <title>No contributions on September 27, 2025</title>
     </rect>
     <rect class="cell level-0" x="86" y="28" width="10" height="10" rx="2">
-      <title>No contributions on September 21, 2025</title>
+      <title>No contributions on September 28, 2025</title>
     </rect>
     <rect class="cell level-1" x="86" y="42" width="10" height="10" rx="2">
-      <title>6 contributions on September 22, 2025</title>
+      <title>13 contributions on September 29, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.15795;0.15895;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="86" y="56" width="10" height="10" rx="2">
-      <title>7 contributions on September 23, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.13654;0.13754;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="86" y="56" width="10" height="10" rx="2">
+      <title>15 contributions on September 30, 2025</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.13654;0.13754;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="86" y="70" width="10" height="10" rx="2">
-      <title>9 contributions on September 24, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.02476;0.02576;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="86" y="70" width="10" height="10" rx="2">
+      <title>15 contributions on October 1, 2025</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.02476;0.02576;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="86" y="84" width="10" height="10" rx="2">
-      <title>12 contributions on September 25, 2025</title>
+      <title>8 contributions on October 2, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.07470;0.07570;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="86" y="98" width="10" height="10" rx="2">
-      <title>3 contributions on September 26, 2025</title>
+      <title>9 contributions on October 3, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.08659;0.08759;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="86" y="112" width="10" height="10" rx="2">
-      <title>No contributions on September 27, 2025</title>
+      <title>No contributions on October 4, 2025</title>
     </rect>
-    <rect class="cell level-0" x="100" y="28" width="10" height="10" rx="2">
-      <title>No contributions on September 28, 2025</title>
+    <rect class="cell level-1" x="100" y="28" width="10" height="10" rx="2">
+      <title>2 contributions on October 5, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.16270;0.16370;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="100" y="42" width="10" height="10" rx="2">
-      <title>13 contributions on September 29, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.15557;0.15657;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="100" y="42" width="10" height="10" rx="2">
+      <title>20 contributions on October 6, 2025</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.15557;0.15657;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="100" y="56" width="10" height="10" rx="2">
-      <title>15 contributions on September 30, 2025</title>
+      <title>17 contributions on October 7, 2025</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.13892;0.13992;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="100" y="70" width="10" height="10" rx="2">
-      <title>15 contributions on October 1, 2025</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.02714;0.02814;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="100" y="70" width="10" height="10" rx="2">
+      <title>2 contributions on October 8, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.02714;0.02814;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="100" y="84" width="10" height="10" rx="2">
-      <title>8 contributions on October 2, 2025</title>
+      <title>3 contributions on October 9, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.07232;0.07332;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="100" y="98" width="10" height="10" rx="2">
-      <title>9 contributions on October 3, 2025</title>
+      <title>5 contributions on October 10, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.08897;0.08997;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="100" y="112" width="10" height="10" rx="2">
-      <title>No contributions on October 4, 2025</title>
+    <rect class="cell level-1" x="100" y="112" width="10" height="10" rx="2">
+      <title>1 contribution on October 11, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.09611;0.09711;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="114" y="28" width="10" height="10" rx="2">
-      <title>2 contributions on October 5, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.16508;0.16608;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="114" y="28" width="10" height="10" rx="2">
+      <title>No contributions on October 12, 2025</title>
     </rect>
-    <rect class="cell level-2" x="114" y="42" width="10" height="10" rx="2">
-      <title>20 contributions on October 6, 2025</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.15319;0.15419;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="114" y="42" width="10" height="10" rx="2">
+      <title>3 contributions on October 13, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.15319;0.15419;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="114" y="56" width="10" height="10" rx="2">
-      <title>17 contributions on October 7, 2025</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.14130;0.14230;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="114" y="56" width="10" height="10" rx="2">
+      <title>11 contributions on October 14, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.14130;0.14230;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="114" y="70" width="10" height="10" rx="2">
-      <title>2 contributions on October 8, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.02951;0.03051;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="114" y="70" width="10" height="10" rx="2">
+      <title>19 contributions on October 15, 2025</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.02951;0.03051;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="114" y="84" width="10" height="10" rx="2">
-      <title>3 contributions on October 9, 2025</title>
+      <title>13 contributions on October 16, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.06995;0.07095;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="114" y="98" width="10" height="10" rx="2">
-      <title>5 contributions on October 10, 2025</title>
+      <title>9 contributions on October 17, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.09135;0.09235;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="114" y="112" width="10" height="10" rx="2">
-      <title>1 contribution on October 11, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.09373;0.09473;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-0" x="128" y="28" width="10" height="10" rx="2">
-      <title>No contributions on October 12, 2025</title>
-    </rect>
-    <rect class="cell level-1" x="128" y="42" width="10" height="10" rx="2">
-      <title>3 contributions on October 13, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.15081;0.15181;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="128" y="56" width="10" height="10" rx="2">
-      <title>11 contributions on October 14, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.14368;0.14468;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="128" y="70" width="10" height="10" rx="2">
-      <title>19 contributions on October 15, 2025</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.03189;0.03289;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="128" y="84" width="10" height="10" rx="2">
-      <title>13 contributions on October 16, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.06757;0.06857;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="128" y="98" width="10" height="10" rx="2">
-      <title>9 contributions on October 17, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.06519;0.06619;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-0" x="128" y="112" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="114" y="112" width="10" height="10" rx="2">
       <title>No contributions on October 18, 2025</title>
     </rect>
-    <rect class="cell level-1" x="142" y="28" width="10" height="10" rx="2">
+    <rect class="cell level-1" x="128" y="28" width="10" height="10" rx="2">
       <title>2 contributions on October 19, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.16984;0.17084;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.16746;0.16846;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="142" y="42" width="10" height="10" rx="2">
+    <rect class="cell level-2" x="128" y="42" width="10" height="10" rx="2">
       <title>14 contributions on October 20, 2025</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.14843;0.14943;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.15081;0.15181;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="142" y="56" width="10" height="10" rx="2">
+    <rect class="cell level-2" x="128" y="56" width="10" height="10" rx="2">
       <title>15 contributions on October 21, 2025</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.14605;0.14705;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.14368;0.14468;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="142" y="70" width="10" height="10" rx="2">
+    <rect class="cell level-1" x="128" y="70" width="10" height="10" rx="2">
       <title>7 contributions on October 22, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.03427;0.03527;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.03189;0.03289;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="142" y="84" width="10" height="10" rx="2">
+    <rect class="cell level-1" x="128" y="84" width="10" height="10" rx="2">
       <title>6 contributions on October 23, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.03665;0.03765;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.06757;0.06857;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="142" y="98" width="10" height="10" rx="2">
+    <rect class="cell level-2" x="128" y="98" width="10" height="10" rx="2">
       <title>14 contributions on October 24, 2025</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.03903;0.04003;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.06519;0.06619;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="142" y="112" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="128" y="112" width="10" height="10" rx="2">
       <title>No contributions on October 25, 2025</title>
     </rect>
-    <rect class="cell level-0" x="156" y="28" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="142" y="28" width="10" height="10" rx="2">
       <title>No contributions on October 26, 2025</title>
     </rect>
-    <rect class="cell level-1" x="156" y="42" width="10" height="10" rx="2">
+    <rect class="cell level-1" x="142" y="42" width="10" height="10" rx="2">
       <title>8 contributions on October 27, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.14843;0.14943;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="142" y="56" width="10" height="10" rx="2">
+      <title>13 contributions on October 28, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.14605;0.14705;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="142" y="70" width="10" height="10" rx="2">
+      <title>8 contributions on October 29, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.03427;0.03527;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-0" x="142" y="84" width="10" height="10" rx="2">
+      <title>No contributions on October 30, 2025</title>
+    </rect>
+    <rect class="cell level-0" x="142" y="98" width="10" height="10" rx="2">
+      <title>No contributions on October 31, 2025</title>
+    </rect>
+    <rect class="cell level-0" x="142" y="112" width="10" height="10" rx="2">
+      <title>No contributions on November 1, 2025</title>
+    </rect>
+    <rect class="cell level-1" x="156" y="28" width="10" height="10" rx="2">
+      <title>2 contributions on November 2, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.17222;0.17322;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="156" y="42" width="10" height="10" rx="2">
+      <title>9 contributions on November 3, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.17459;0.17559;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="156" y="56" width="10" height="10" rx="2">
-      <title>13 contributions on October 28, 2025</title>
+      <title>12 contributions on November 4, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.17697;0.17797;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="156" y="70" width="10" height="10" rx="2">
-      <title>8 contributions on October 29, 2025</title>
+      <title>5 contributions on November 5, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.17935;0.18035;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="156" y="84" width="10" height="10" rx="2">
-      <title>No contributions on October 30, 2025</title>
+    <rect class="cell level-1" x="156" y="84" width="10" height="10" rx="2">
+      <title>5 contributions on November 6, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.18173;0.18273;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="156" y="98" width="10" height="10" rx="2">
-      <title>No contributions on October 31, 2025</title>
+    <rect class="cell level-1" x="156" y="98" width="10" height="10" rx="2">
+      <title>7 contributions on November 7, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.04141;0.04241;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="156" y="112" width="10" height="10" rx="2">
-      <title>No contributions on November 1, 2025</title>
+    <rect class="cell level-1" x="156" y="112" width="10" height="10" rx="2">
+      <title>3 contributions on November 8, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.05805;0.05905;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="170" y="28" width="10" height="10" rx="2">
-      <title>2 contributions on November 2, 2025</title>
+      <title>1 contribution on November 9, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.24119;0.24219;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="170" y="42" width="10" height="10" rx="2">
-      <title>9 contributions on November 3, 2025</title>
+      <title>11 contributions on November 10, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.23881;0.23981;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="170" y="56" width="10" height="10" rx="2">
-      <title>12 contributions on November 4, 2025</title>
+      <title>13 contributions on November 11, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.19838;0.19938;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="170" y="70" width="10" height="10" rx="2">
-      <title>5 contributions on November 5, 2025</title>
+      <title>9 contributions on November 12, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.19600;0.19700;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="170" y="84" width="10" height="10" rx="2">
-      <title>5 contributions on November 6, 2025</title>
+      <title>8 contributions on November 13, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.18411;0.18511;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="170" y="98" width="10" height="10" rx="2">
-      <title>7 contributions on November 7, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.04378;0.04478;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="170" y="98" width="10" height="10" rx="2">
+      <title>16 contributions on November 14, 2025</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.04378;0.04478;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="170" y="112" width="10" height="10" rx="2">
-      <title>3 contributions on November 8, 2025</title>
+      <title>1 contribution on November 15, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.05568;0.05668;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="184" y="28" width="10" height="10" rx="2">
-      <title>1 contribution on November 9, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.24357;0.24457;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="184" y="28" width="10" height="10" rx="2">
+      <title>No contributions on November 16, 2025</title>
     </rect>
-    <rect class="cell level-1" x="184" y="42" width="10" height="10" rx="2">
-      <title>11 contributions on November 10, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.23643;0.23743;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="184" y="42" width="10" height="10" rx="2">
+      <title>17 contributions on November 17, 2025</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.23643;0.23743;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="184" y="56" width="10" height="10" rx="2">
-      <title>13 contributions on November 11, 2025</title>
+      <title>6 contributions on November 18, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.20076;0.20176;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="184" y="70" width="10" height="10" rx="2">
-      <title>9 contributions on November 12, 2025</title>
+      <title>7 contributions on November 19, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.19362;0.19462;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="184" y="84" width="10" height="10" rx="2">
-      <title>8 contributions on November 13, 2025</title>
+      <title>10 contributions on November 20, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.18649;0.18749;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="184" y="98" width="10" height="10" rx="2">
-      <title>16 contributions on November 14, 2025</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.04616;0.04716;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="184" y="98" width="10" height="10" rx="2">
+      <title>10 contributions on November 21, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.04616;0.04716;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="184" y="112" width="10" height="10" rx="2">
-      <title>1 contribution on November 15, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.05330;0.05430;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="184" y="112" width="10" height="10" rx="2">
+      <title>No contributions on November 22, 2025</title>
     </rect>
     <rect class="cell level-0" x="198" y="28" width="10" height="10" rx="2">
-      <title>No contributions on November 16, 2025</title>
+      <title>No contributions on November 23, 2025</title>
     </rect>
-    <rect class="cell level-2" x="198" y="42" width="10" height="10" rx="2">
-      <title>17 contributions on November 17, 2025</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.23405;0.23505;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="198" y="42" width="10" height="10" rx="2">
+      <title>11 contributions on November 24, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.23405;0.23505;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="198" y="56" width="10" height="10" rx="2">
-      <title>6 contributions on November 18, 2025</title>
+      <title>9 contributions on November 25, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.20314;0.20414;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="198" y="70" width="10" height="10" rx="2">
-      <title>7 contributions on November 19, 2025</title>
+      <title>10 contributions on November 26, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.19124;0.19224;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="198" y="84" width="10" height="10" rx="2">
-      <title>10 contributions on November 20, 2025</title>
+      <title>5 contributions on November 27, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.18886;0.18986;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="198" y="98" width="10" height="10" rx="2">
-      <title>10 contributions on November 21, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.04854;0.04954;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="198" y="98" width="10" height="10" rx="2">
+      <title>No contributions on November 28, 2025</title>
     </rect>
-    <rect class="cell level-0" x="198" y="112" width="10" height="10" rx="2">
-      <title>No contributions on November 22, 2025</title>
+    <rect class="cell level-1" x="198" y="112" width="10" height="10" rx="2">
+      <title>2 contributions on November 29, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.05092;0.05192;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="212" y="28" width="10" height="10" rx="2">
-      <title>No contributions on November 23, 2025</title>
+      <title>No contributions on November 30, 2025</title>
     </rect>
     <rect class="cell level-1" x="212" y="42" width="10" height="10" rx="2">
-      <title>11 contributions on November 24, 2025</title>
+      <title>11 contributions on December 1, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.23168;0.23268;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="212" y="56" width="10" height="10" rx="2">
-      <title>9 contributions on November 25, 2025</title>
+      <title>8 contributions on December 2, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.20551;0.20651;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="212" y="70" width="10" height="10" rx="2">
-      <title>10 contributions on November 26, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.20789;0.20889;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="212" y="70" width="10" height="10" rx="2">
+      <title>No contributions on December 3, 2025</title>
     </rect>
     <rect class="cell level-1" x="212" y="84" width="10" height="10" rx="2">
-      <title>5 contributions on November 27, 2025</title>
+      <title>1 contribution on December 4, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.21027;0.21127;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="212" y="98" width="10" height="10" rx="2">
-      <title>No contributions on November 28, 2025</title>
+    <rect class="cell level-1" x="212" y="98" width="10" height="10" rx="2">
+      <title>7 contributions on December 5, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.21265;0.21365;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="212" y="112" width="10" height="10" rx="2">
-      <title>2 contributions on November 29, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.21503;0.21603;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="212" y="112" width="10" height="10" rx="2">
+      <title>No contributions on December 6, 2025</title>
     </rect>
-    <rect class="cell level-0" x="226" y="28" width="10" height="10" rx="2">
-      <title>No contributions on November 30, 2025</title>
+    <rect class="cell level-1" x="226" y="28" width="10" height="10" rx="2">
+      <title>1 contribution on December 7, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.25070;0.25170;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="226" y="42" width="10" height="10" rx="2">
-      <title>11 contributions on December 1, 2025</title>
+      <title>2 contributions on December 8, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.22930;0.23030;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="226" y="56" width="10" height="10" rx="2">
-      <title>8 contributions on December 2, 2025</title>
+      <title>7 contributions on December 9, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.22692;0.22792;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="226" y="70" width="10" height="10" rx="2">
-      <title>No contributions on December 3, 2025</title>
+    <rect class="cell level-1" x="226" y="70" width="10" height="10" rx="2">
+      <title>4 contributions on December 10, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.22454;0.22554;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="226" y="84" width="10" height="10" rx="2">
-      <title>1 contribution on December 4, 2025</title>
+      <title>12 contributions on December 11, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.22216;0.22316;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="226" y="98" width="10" height="10" rx="2">
-      <title>7 contributions on December 5, 2025</title>
+      <title>2 contributions on December 12, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.21978;0.22078;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="226" y="112" width="10" height="10" rx="2">
-      <title>No contributions on December 6, 2025</title>
+      <title>No contributions on December 13, 2025</title>
     </rect>
-    <rect class="cell level-1" x="240" y="28" width="10" height="10" rx="2">
-      <title>1 contribution on December 7, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.25308;0.25408;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="240" y="28" width="10" height="10" rx="2">
+      <title>No contributions on December 14, 2025</title>
     </rect>
     <rect class="cell level-1" x="240" y="42" width="10" height="10" rx="2">
-      <title>2 contributions on December 8, 2025</title>
+      <title>5 contributions on December 15, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.25546;0.25646;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="240" y="56" width="10" height="10" rx="2">
-      <title>7 contributions on December 9, 2025</title>
+      <title>5 contributions on December 16, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.25784;0.25884;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="240" y="70" width="10" height="10" rx="2">
-      <title>4 contributions on December 10, 2025</title>
+      <title>2 contributions on December 17, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.26022;0.26122;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="240" y="84" width="10" height="10" rx="2">
-      <title>12 contributions on December 11, 2025</title>
+      <title>3 contributions on December 18, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.26259;0.26359;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="240" y="98" width="10" height="10" rx="2">
-      <title>2 contributions on December 12, 2025</title>
+      <title>6 contributions on December 19, 2025</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.26497;0.26597;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="240" y="112" width="10" height="10" rx="2">
-      <title>No contributions on December 13, 2025</title>
-    </rect>
-    <rect class="cell level-0" x="254" y="28" width="10" height="10" rx="2">
-      <title>No contributions on December 14, 2025</title>
-    </rect>
-    <rect class="cell level-1" x="254" y="42" width="10" height="10" rx="2">
-      <title>5 contributions on December 15, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.36724;0.36824;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="254" y="56" width="10" height="10" rx="2">
-      <title>5 contributions on December 16, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.27924;0.28024;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="254" y="70" width="10" height="10" rx="2">
-      <title>2 contributions on December 17, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.27686;0.27786;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="254" y="84" width="10" height="10" rx="2">
-      <title>3 contributions on December 18, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.27449;0.27549;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="254" y="98" width="10" height="10" rx="2">
-      <title>6 contributions on December 19, 2025</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.27211;0.27311;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-0" x="254" y="112" width="10" height="10" rx="2">
       <title>No contributions on December 20, 2025</title>
     </rect>
-    <rect class="cell level-0" x="268" y="28" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="254" y="28" width="10" height="10" rx="2">
       <title>No contributions on December 21, 2025</title>
     </rect>
-    <rect class="cell level-0" x="268" y="42" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="254" y="42" width="10" height="10" rx="2">
       <title>No contributions on December 22, 2025</title>
     </rect>
-    <rect class="cell level-0" x="268" y="56" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="254" y="56" width="10" height="10" rx="2">
       <title>No contributions on December 23, 2025</title>
     </rect>
-    <rect class="cell level-0" x="268" y="70" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="254" y="70" width="10" height="10" rx="2">
       <title>No contributions on December 24, 2025</title>
     </rect>
-    <rect class="cell level-0" x="268" y="84" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="254" y="84" width="10" height="10" rx="2">
       <title>No contributions on December 25, 2025</title>
     </rect>
-    <rect class="cell level-0" x="268" y="98" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="254" y="98" width="10" height="10" rx="2">
       <title>No contributions on December 26, 2025</title>
     </rect>
-    <rect class="cell level-0" x="268" y="112" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="254" y="112" width="10" height="10" rx="2">
       <title>No contributions on December 27, 2025</title>
     </rect>
-    <rect class="cell level-0" x="282" y="28" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="268" y="28" width="10" height="10" rx="2">
       <title>No contributions on December 28, 2025</title>
     </rect>
-    <rect class="cell level-1" x="282" y="42" width="10" height="10" rx="2">
+    <rect class="cell level-1" x="268" y="42" width="10" height="10" rx="2">
       <title>2 contributions on December 29, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.36486;0.36586;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="268" y="56" width="10" height="10" rx="2">
+      <title>6 contributions on December 30, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.28162;0.28262;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="268" y="70" width="10" height="10" rx="2">
+      <title>7 contributions on December 31, 2025</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.28400;0.28500;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-0" x="268" y="84" width="10" height="10" rx="2">
+      <title>No contributions on January 1, 2026</title>
+    </rect>
+    <rect class="cell level-0" x="268" y="98" width="10" height="10" rx="2">
+      <title>No contributions on January 2, 2026</title>
+    </rect>
+    <rect class="cell level-0" x="268" y="112" width="10" height="10" rx="2">
+      <title>No contributions on January 3, 2026</title>
+    </rect>
+    <rect class="cell level-0" x="282" y="28" width="10" height="10" rx="2">
+      <title>No contributions on January 4, 2026</title>
+    </rect>
+    <rect class="cell level-1" x="282" y="42" width="10" height="10" rx="2">
+      <title>8 contributions on January 5, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.36249;0.36349;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="282" y="56" width="10" height="10" rx="2">
-      <title>6 contributions on December 30, 2025</title>
+      <title>8 contributions on January 6, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.30303;0.30403;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="282" y="70" width="10" height="10" rx="2">
-      <title>7 contributions on December 31, 2025</title>
+      <title>3 contributions on January 7, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.30065;0.30165;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="282" y="84" width="10" height="10" rx="2">
-      <title>No contributions on January 1, 2026</title>
+    <rect class="cell level-1" x="282" y="84" width="10" height="10" rx="2">
+      <title>5 contributions on January 8, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.29827;0.29927;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="282" y="98" width="10" height="10" rx="2">
-      <title>No contributions on January 2, 2026</title>
+    <rect class="cell level-1" x="282" y="98" width="10" height="10" rx="2">
+      <title>4 contributions on January 9, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.29589;0.29689;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="282" y="112" width="10" height="10" rx="2">
-      <title>No contributions on January 3, 2026</title>
+      <title>No contributions on January 10, 2026</title>
     </rect>
     <rect class="cell level-0" x="296" y="28" width="10" height="10" rx="2">
-      <title>No contributions on January 4, 2026</title>
+      <title>No contributions on January 11, 2026</title>
     </rect>
     <rect class="cell level-1" x="296" y="42" width="10" height="10" rx="2">
-      <title>8 contributions on January 5, 2026</title>
+      <title>7 contributions on January 12, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.36011;0.36111;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="296" y="56" width="10" height="10" rx="2">
-      <title>8 contributions on January 6, 2026</title>
+      <title>7 contributions on January 13, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.30541;0.30641;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="296" y="70" width="10" height="10" rx="2">
-      <title>3 contributions on January 7, 2026</title>
+      <title>12 contributions on January 14, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.30778;0.30878;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="296" y="84" width="10" height="10" rx="2">
-      <title>5 contributions on January 8, 2026</title>
+      <title>2 contributions on January 15, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.31016;0.31116;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="296" y="98" width="10" height="10" rx="2">
-      <title>4 contributions on January 9, 2026</title>
+      <title>8 contributions on January 16, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.31254;0.31354;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="296" y="112" width="10" height="10" rx="2">
-      <title>No contributions on January 10, 2026</title>
+      <title>No contributions on January 17, 2026</title>
     </rect>
     <rect class="cell level-0" x="310" y="28" width="10" height="10" rx="2">
-      <title>No contributions on January 11, 2026</title>
+      <title>No contributions on January 18, 2026</title>
     </rect>
     <rect class="cell level-1" x="310" y="42" width="10" height="10" rx="2">
-      <title>7 contributions on January 12, 2026</title>
+      <title>5 contributions on January 19, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.35773;0.35873;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="310" y="56" width="10" height="10" rx="2">
-      <title>7 contributions on January 13, 2026</title>
+      <title>2 contributions on January 20, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.32681;0.32781;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="310" y="70" width="10" height="10" rx="2">
-      <title>12 contributions on January 14, 2026</title>
+      <title>7 contributions on January 21, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.32443;0.32543;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="310" y="84" width="10" height="10" rx="2">
-      <title>2 contributions on January 15, 2026</title>
+      <title>6 contributions on January 22, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.32205;0.32305;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="310" y="98" width="10" height="10" rx="2">
-      <title>8 contributions on January 16, 2026</title>
+      <title>6 contributions on January 23, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.31968;0.32068;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="310" y="112" width="10" height="10" rx="2">
-      <title>No contributions on January 17, 2026</title>
+      <title>No contributions on January 24, 2026</title>
     </rect>
     <rect class="cell level-0" x="324" y="28" width="10" height="10" rx="2">
-      <title>No contributions on January 18, 2026</title>
+      <title>No contributions on January 25, 2026</title>
     </rect>
     <rect class="cell level-1" x="324" y="42" width="10" height="10" rx="2">
-      <title>5 contributions on January 19, 2026</title>
+      <title>3 contributions on January 26, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.35535;0.35635;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="324" y="56" width="10" height="10" rx="2">
-      <title>2 contributions on January 20, 2026</title>
+      <title>5 contributions on January 27, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.32919;0.33019;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="324" y="70" width="10" height="10" rx="2">
-      <title>7 contributions on January 21, 2026</title>
+      <title>4 contributions on January 28, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.33157;0.33257;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="324" y="84" width="10" height="10" rx="2">
-      <title>6 contributions on January 22, 2026</title>
+      <title>10 contributions on January 29, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.33395;0.33495;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="324" y="98" width="10" height="10" rx="2">
-      <title>6 contributions on January 23, 2026</title>
+      <title>7 contributions on January 30, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.33632;0.33732;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="324" y="112" width="10" height="10" rx="2">
-      <title>No contributions on January 24, 2026</title>
+    <rect class="cell level-1" x="324" y="112" width="10" height="10" rx="2">
+      <title>3 contributions on January 31, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.33870;0.33970;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="338" y="28" width="10" height="10" rx="2">
-      <title>No contributions on January 25, 2026</title>
+    <rect class="cell level-1" x="338" y="28" width="10" height="10" rx="2">
+      <title>1 contribution on February 1, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.38389;0.38489;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="338" y="42" width="10" height="10" rx="2">
-      <title>3 contributions on January 26, 2026</title>
+      <title>12 contributions on February 2, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.35297;0.35397;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="338" y="56" width="10" height="10" rx="2">
-      <title>5 contributions on January 27, 2026</title>
+      <title>3 contributions on February 3, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.35059;0.35159;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="338" y="70" width="10" height="10" rx="2">
-      <title>4 contributions on January 28, 2026</title>
+      <title>8 contributions on February 4, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.34822;0.34922;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="338" y="84" width="10" height="10" rx="2">
-      <title>10 contributions on January 29, 2026</title>
+      <title>3 contributions on February 5, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.34584;0.34684;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="338" y="98" width="10" height="10" rx="2">
-      <title>7 contributions on January 30, 2026</title>
+      <title>9 contributions on February 6, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.34346;0.34446;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="338" y="112" width="10" height="10" rx="2">
-      <title>3 contributions on January 31, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.34108;0.34208;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="338" y="112" width="10" height="10" rx="2">
+      <title>No contributions on February 7, 2026</title>
     </rect>
-    <rect class="cell level-1" x="352" y="28" width="10" height="10" rx="2">
-      <title>1 contribution on February 1, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.38627;0.38727;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="352" y="28" width="10" height="10" rx="2">
+      <title>No contributions on February 8, 2026</title>
     </rect>
     <rect class="cell level-1" x="352" y="42" width="10" height="10" rx="2">
-      <title>12 contributions on February 2, 2026</title>
+      <title>9 contributions on February 9, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.38865;0.38965;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="352" y="56" width="10" height="10" rx="2">
-      <title>3 contributions on February 3, 2026</title>
+      <title>11 contributions on February 10, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.39103;0.39203;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="352" y="70" width="10" height="10" rx="2">
-      <title>8 contributions on February 4, 2026</title>
+      <title>10 contributions on February 11, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.39341;0.39441;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="352" y="84" width="10" height="10" rx="2">
-      <title>3 contributions on February 5, 2026</title>
+      <title>10 contributions on February 12, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.39578;0.39678;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="352" y="98" width="10" height="10" rx="2">
-      <title>9 contributions on February 6, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.39816;0.39916;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="352" y="98" width="10" height="10" rx="2">
+      <title>21 contributions on February 13, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.39816;0.39916;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="352" y="112" width="10" height="10" rx="2">
-      <title>No contributions on February 7, 2026</title>
+      <title>No contributions on February 14, 2026</title>
     </rect>
     <rect class="cell level-0" x="366" y="28" width="10" height="10" rx="2">
-      <title>No contributions on February 8, 2026</title>
+      <title>No contributions on February 15, 2026</title>
     </rect>
     <rect class="cell level-1" x="366" y="42" width="10" height="10" rx="2">
-      <title>9 contributions on February 9, 2026</title>
+      <title>6 contributions on February 16, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.41481;0.41581;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="366" y="56" width="10" height="10" rx="2">
-      <title>11 contributions on February 10, 2026</title>
+      <title>13 contributions on February 17, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.41243;0.41343;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="366" y="70" width="10" height="10" rx="2">
-      <title>10 contributions on February 11, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.41005;0.41105;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="366" y="70" width="10" height="10" rx="2">
+      <title>16 contributions on February 18, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.41005;0.41105;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="366" y="84" width="10" height="10" rx="2">
-      <title>10 contributions on February 12, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.40768;0.40868;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="366" y="84" width="10" height="10" rx="2">
+      <title>14 contributions on February 19, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.40768;0.40868;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="366" y="98" width="10" height="10" rx="2">
-      <title>21 contributions on February 13, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.40530;0.40630;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="366" y="98" width="10" height="10" rx="2">
+      <title>7 contributions on February 20, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.40530;0.40630;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="366" y="112" width="10" height="10" rx="2">
-      <title>No contributions on February 14, 2026</title>
+    <rect class="cell level-1" x="366" y="112" width="10" height="10" rx="2">
+      <title>1 contribution on February 21, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.40292;0.40392;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="380" y="28" width="10" height="10" rx="2">
-      <title>No contributions on February 15, 2026</title>
+    <rect class="cell level-1" x="380" y="28" width="10" height="10" rx="2">
+      <title>2 contributions on February 22, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.41957;0.42057;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="380" y="42" width="10" height="10" rx="2">
-      <title>6 contributions on February 16, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.42195;0.42295;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="380" y="42" width="10" height="10" rx="2">
+      <title>21 contributions on February 23, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.42195;0.42295;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="380" y="56" width="10" height="10" rx="2">
-      <title>13 contributions on February 17, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.42432;0.42532;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="380" y="56" width="10" height="10" rx="2">
+      <title>18 contributions on February 24, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.42432;0.42532;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="380" y="70" width="10" height="10" rx="2">
-      <title>16 contributions on February 18, 2026</title>
+      <title>21 contributions on February 25, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.42670;0.42770;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="380" y="84" width="10" height="10" rx="2">
-      <title>14 contributions on February 19, 2026</title>
+      <title>14 contributions on February 26, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.42908;0.43008;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="380" y="98" width="10" height="10" rx="2">
-      <title>7 contributions on February 20, 2026</title>
+      <title>7 contributions on February 27, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.43146;0.43246;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="380" y="112" width="10" height="10" rx="2">
-      <title>1 contribution on February 21, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.43384;0.43484;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="380" y="112" width="10" height="10" rx="2">
+      <title>No contributions on February 28, 2026</title>
     </rect>
     <rect class="cell level-1" x="394" y="28" width="10" height="10" rx="2">
-      <title>2 contributions on February 22, 2026</title>
+      <title>2 contributions on March 1, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.45049;0.45149;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="394" y="42" width="10" height="10" rx="2">
-      <title>21 contributions on February 23, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.44811;0.44911;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="394" y="42" width="10" height="10" rx="2">
+      <title>7 contributions on March 2, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.44811;0.44911;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="394" y="56" width="10" height="10" rx="2">
-      <title>18 contributions on February 24, 2026</title>
+      <title>17 contributions on March 3, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.44573;0.44673;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="394" y="70" width="10" height="10" rx="2">
-      <title>21 contributions on February 25, 2026</title>
+      <title>15 contributions on March 4, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.44335;0.44435;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="394" y="84" width="10" height="10" rx="2">
-      <title>14 contributions on February 26, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.44097;0.44197;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="394" y="84" width="10" height="10" rx="2">
+      <title>2 contributions on March 5, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.44097;0.44197;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="394" y="98" width="10" height="10" rx="2">
-      <title>7 contributions on February 27, 2026</title>
+      <title>8 contributions on March 6, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.43859;0.43959;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="394" y="112" width="10" height="10" rx="2">
-      <title>No contributions on February 28, 2026</title>
+    <rect class="cell level-1" x="394" y="112" width="10" height="10" rx="2">
+      <title>4 contributions on March 7, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.43622;0.43722;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="408" y="28" width="10" height="10" rx="2">
-      <title>2 contributions on March 1, 2026</title>
+      <title>4 contributions on March 8, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.45286;0.45386;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="408" y="42" width="10" height="10" rx="2">
-      <title>7 contributions on March 2, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.45524;0.45624;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="408" y="42" width="10" height="10" rx="2">
+      <title>14 contributions on March 9, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.45524;0.45624;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="408" y="56" width="10" height="10" rx="2">
-      <title>17 contributions on March 3, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.45762;0.45862;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="408" y="56" width="10" height="10" rx="2">
+      <title>11 contributions on March 10, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.45762;0.45862;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="408" y="70" width="10" height="10" rx="2">
-      <title>15 contributions on March 4, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.46000;0.46100;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="408" y="70" width="10" height="10" rx="2">
+      <title>11 contributions on March 11, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.46000;0.46100;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="408" y="84" width="10" height="10" rx="2">
-      <title>2 contributions on March 5, 2026</title>
+      <title>2 contributions on March 12, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.46238;0.46338;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="408" y="98" width="10" height="10" rx="2">
-      <title>8 contributions on March 6, 2026</title>
+      <title>1 contribution on March 13, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.46476;0.46576;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="408" y="112" width="10" height="10" rx="2">
-      <title>4 contributions on March 7, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.46714;0.46814;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="408" y="112" width="10" height="10" rx="2">
+      <title>No contributions on March 14, 2026</title>
     </rect>
-    <rect class="cell level-1" x="422" y="28" width="10" height="10" rx="2">
-      <title>4 contributions on March 8, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.48378;0.48478;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="422" y="28" width="10" height="10" rx="2">
+      <title>No contributions on March 15, 2026</title>
     </rect>
     <rect class="cell level-2" x="422" y="42" width="10" height="10" rx="2">
-      <title>14 contributions on March 9, 2026</title>
+      <title>23 contributions on March 16, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.48141;0.48241;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="422" y="56" width="10" height="10" rx="2">
-      <title>11 contributions on March 10, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.47903;0.48003;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="422" y="56" width="10" height="10" rx="2">
+      <title>16 contributions on March 17, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.47903;0.48003;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="422" y="70" width="10" height="10" rx="2">
-      <title>11 contributions on March 11, 2026</title>
+      <title>6 contributions on March 18, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.47665;0.47765;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="422" y="84" width="10" height="10" rx="2">
-      <title>2 contributions on March 12, 2026</title>
+      <title>9 contributions on March 19, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.47427;0.47527;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="422" y="98" width="10" height="10" rx="2">
-      <title>1 contribution on March 13, 2026</title>
+      <title>13 contributions on March 20, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.47189;0.47289;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="422" y="112" width="10" height="10" rx="2">
-      <title>No contributions on March 14, 2026</title>
+    <rect class="cell level-1" x="422" y="112" width="10" height="10" rx="2">
+      <title>5 contributions on March 21, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.46951;0.47051;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="436" y="28" width="10" height="10" rx="2">
-      <title>No contributions on March 15, 2026</title>
+    <rect class="cell level-1" x="436" y="28" width="10" height="10" rx="2">
+      <title>3 contributions on March 22, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.48616;0.48716;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="436" y="42" width="10" height="10" rx="2">
-      <title>23 contributions on March 16, 2026</title>
+      <title>15 contributions on March 23, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.48854;0.48954;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="436" y="56" width="10" height="10" rx="2">
-      <title>16 contributions on March 17, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.49092;0.49192;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-3" x="436" y="56" width="10" height="10" rx="2">
+      <title>34 contributions on March 24, 2026</title>
+      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.49092;0.49192;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="436" y="70" width="10" height="10" rx="2">
-      <title>6 contributions on March 18, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.49330;0.49430;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="436" y="70" width="10" height="10" rx="2">
+      <title>18 contributions on March 25, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.49330;0.49430;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="436" y="84" width="10" height="10" rx="2">
-      <title>9 contributions on March 19, 2026</title>
+      <title>11 contributions on March 26, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.49568;0.49668;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="436" y="98" width="10" height="10" rx="2">
-      <title>13 contributions on March 20, 2026</title>
+      <title>7 contributions on March 27, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.49805;0.49905;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="436" y="112" width="10" height="10" rx="2">
-      <title>5 contributions on March 21, 2026</title>
+      <title>2 contributions on March 28, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.50043;0.50143;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="450" y="28" width="10" height="10" rx="2">
-      <title>3 contributions on March 22, 2026</title>
+      <title>2 contributions on March 29, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.51708;0.51808;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="450" y="42" width="10" height="10" rx="2">
-      <title>15 contributions on March 23, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.51470;0.51570;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="450" y="42" width="10" height="10" rx="2">
+      <title>10 contributions on March 30, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.51470;0.51570;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-3" x="450" y="56" width="10" height="10" rx="2">
-      <title>34 contributions on March 24, 2026</title>
-      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.51232;0.51332;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="450" y="56" width="10" height="10" rx="2">
+      <title>13 contributions on March 31, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.51232;0.51332;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="450" y="70" width="10" height="10" rx="2">
-      <title>18 contributions on March 25, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.50995;0.51095;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="450" y="70" width="10" height="10" rx="2">
+      <title>10 contributions on April 1, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.50995;0.51095;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="450" y="84" width="10" height="10" rx="2">
-      <title>11 contributions on March 26, 2026</title>
+      <title>12 contributions on April 2, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.50757;0.50857;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="450" y="98" width="10" height="10" rx="2">
-      <title>7 contributions on March 27, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.50519;0.50619;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="450" y="98" width="10" height="10" rx="2">
+      <title>No contributions on April 3, 2026</title>
     </rect>
     <rect class="cell level-1" x="450" y="112" width="10" height="10" rx="2">
-      <title>2 contributions on March 28, 2026</title>
+      <title>5 contributions on April 4, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.50281;0.50381;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="464" y="28" width="10" height="10" rx="2">
-      <title>2 contributions on March 29, 2026</title>
+      <title>3 contributions on April 5, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.51946;0.52046;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="464" y="42" width="10" height="10" rx="2">
-      <title>10 contributions on March 30, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.52184;0.52284;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="464" y="42" width="10" height="10" rx="2">
+      <title>18 contributions on April 6, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.52184;0.52284;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="464" y="56" width="10" height="10" rx="2">
-      <title>13 contributions on March 31, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.52422;0.52522;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="464" y="56" width="10" height="10" rx="2">
+      <title>21 contributions on April 7, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.52422;0.52522;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="464" y="70" width="10" height="10" rx="2">
-      <title>10 contributions on April 1, 2026</title>
+      <title>13 contributions on April 8, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.52659;0.52759;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="464" y="84" width="10" height="10" rx="2">
-      <title>12 contributions on April 2, 2026</title>
+      <title>7 contributions on April 9, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.52897;0.52997;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="464" y="98" width="10" height="10" rx="2">
-      <title>No contributions on April 3, 2026</title>
+    <rect class="cell level-2" x="464" y="98" width="10" height="10" rx="2">
+      <title>15 contributions on April 10, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.53135;0.53235;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="464" y="112" width="10" height="10" rx="2">
-      <title>5 contributions on April 4, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.53373;0.53473;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="464" y="112" width="10" height="10" rx="2">
+      <title>No contributions on April 11, 2026</title>
     </rect>
     <rect class="cell level-1" x="478" y="28" width="10" height="10" rx="2">
-      <title>3 contributions on April 5, 2026</title>
+      <title>4 contributions on April 12, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.55038;0.55138;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="478" y="42" width="10" height="10" rx="2">
-      <title>18 contributions on April 6, 2026</title>
+      <title>15 contributions on April 13, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.54800;0.54900;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="478" y="56" width="10" height="10" rx="2">
-      <title>21 contributions on April 7, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.54562;0.54662;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-3" x="478" y="56" width="10" height="10" rx="2">
+      <title>30 contributions on April 14, 2026</title>
+      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.54562;0.54662;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="478" y="70" width="10" height="10" rx="2">
-      <title>13 contributions on April 8, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.54324;0.54424;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="478" y="70" width="10" height="10" rx="2">
+      <title>18 contributions on April 15, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.54324;0.54424;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="478" y="84" width="10" height="10" rx="2">
-      <title>7 contributions on April 9, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.54086;0.54186;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="478" y="84" width="10" height="10" rx="2">
+      <title>18 contributions on April 16, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.54086;0.54186;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="478" y="98" width="10" height="10" rx="2">
-      <title>15 contributions on April 10, 2026</title>
+      <title>17 contributions on April 17, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.53849;0.53949;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="478" y="112" width="10" height="10" rx="2">
-      <title>No contributions on April 11, 2026</title>
+    <rect class="cell level-1" x="478" y="112" width="10" height="10" rx="2">
+      <title>1 contribution on April 18, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.53611;0.53711;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="492" y="28" width="10" height="10" rx="2">
-      <title>4 contributions on April 12, 2026</title>
+      <title>2 contributions on April 19, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.55276;0.55376;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="492" y="42" width="10" height="10" rx="2">
-      <title>15 contributions on April 13, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.55514;0.55614;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-3" x="492" y="42" width="10" height="10" rx="2">
+      <title>27 contributions on April 20, 2026</title>
+      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.55514;0.55614;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-3" x="492" y="56" width="10" height="10" rx="2">
-      <title>30 contributions on April 14, 2026</title>
-      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.55751;0.55851;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="492" y="56" width="10" height="10" rx="2">
+      <title>9 contributions on April 21, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.55751;0.55851;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="492" y="70" width="10" height="10" rx="2">
-      <title>18 contributions on April 15, 2026</title>
+      <title>14 contributions on April 22, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.55989;0.56089;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="492" y="84" width="10" height="10" rx="2">
-      <title>18 contributions on April 16, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.56227;0.56327;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="492" y="84" width="10" height="10" rx="2">
+      <title>7 contributions on April 23, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.56227;0.56327;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="492" y="98" width="10" height="10" rx="2">
-      <title>17 contributions on April 17, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.56465;0.56565;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="492" y="98" width="10" height="10" rx="2">
+      <title>1 contribution on April 24, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.56465;0.56565;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="492" y="112" width="10" height="10" rx="2">
-      <title>1 contribution on April 18, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.56703;0.56803;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="492" y="112" width="10" height="10" rx="2">
+      <title>No contributions on April 25, 2026</title>
     </rect>
-    <rect class="cell level-1" x="506" y="28" width="10" height="10" rx="2">
-      <title>2 contributions on April 19, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.58368;0.58468;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="506" y="28" width="10" height="10" rx="2">
+      <title>No contributions on April 26, 2026</title>
     </rect>
-    <rect class="cell level-3" x="506" y="42" width="10" height="10" rx="2">
-      <title>27 contributions on April 20, 2026</title>
-      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.58130;0.58230;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="506" y="42" width="10" height="10" rx="2">
+      <title>18 contributions on April 27, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.58130;0.58230;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="506" y="56" width="10" height="10" rx="2">
-      <title>9 contributions on April 21, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.57892;0.57992;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="506" y="56" width="10" height="10" rx="2">
+      <title>16 contributions on April 28, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.57892;0.57992;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="506" y="70" width="10" height="10" rx="2">
-      <title>14 contributions on April 22, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.57654;0.57754;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="506" y="70" width="10" height="10" rx="2">
+      <title>6 contributions on April 29, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.57654;0.57754;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="506" y="84" width="10" height="10" rx="2">
-      <title>7 contributions on April 23, 2026</title>
+      <title>9 contributions on April 30, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.57416;0.57516;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="506" y="98" width="10" height="10" rx="2">
-      <title>1 contribution on April 24, 2026</title>
+      <title>5 contributions on May 1, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.57178;0.57278;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="506" y="112" width="10" height="10" rx="2">
-      <title>No contributions on April 25, 2026</title>
-    </rect>
-    <rect class="cell level-0" x="520" y="28" width="10" height="10" rx="2">
-      <title>No contributions on April 26, 2026</title>
-    </rect>
-    <rect class="cell level-2" x="520" y="42" width="10" height="10" rx="2">
-      <title>18 contributions on April 27, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.58843;0.58943;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="520" y="56" width="10" height="10" rx="2">
-      <title>16 contributions on April 28, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.59081;0.59181;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="520" y="70" width="10" height="10" rx="2">
-      <title>6 contributions on April 29, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.59319;0.59419;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="520" y="84" width="10" height="10" rx="2">
-      <title>9 contributions on April 30, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.59557;0.59657;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="520" y="98" width="10" height="10" rx="2">
-      <title>5 contributions on May 1, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.59795;0.59895;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-0" x="520" y="112" width="10" height="10" rx="2">
       <title>No contributions on May 2, 2026</title>
     </rect>
-    <rect class="cell level-1" x="534" y="28" width="10" height="10" rx="2">
+    <rect class="cell level-1" x="520" y="28" width="10" height="10" rx="2">
       <title>3 contributions on May 3, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.58605;0.58705;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="520" y="42" width="10" height="10" rx="2">
+      <title>12 contributions on May 4, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.58843;0.58943;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-2" x="520" y="56" width="10" height="10" rx="2">
+      <title>24 contributions on May 5, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.59081;0.59181;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-3" x="520" y="70" width="10" height="10" rx="2">
+      <title>39 contributions on May 6, 2026</title>
+      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.59319;0.59419;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-2" x="520" y="84" width="10" height="10" rx="2">
+      <title>22 contributions on May 7, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.59557;0.59657;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-4" x="520" y="98" width="10" height="10" rx="2">
+      <title>53 contributions on May 8, 2026</title>
+      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.59795;0.59895;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-0" x="520" y="112" width="10" height="10" rx="2">
+      <title>No contributions on May 9, 2026</title>
+    </rect>
+    <rect class="cell level-1" x="534" y="28" width="10" height="10" rx="2">
+      <title>12 contributions on May 10, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.61697;0.61797;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="534" y="42" width="10" height="10" rx="2">
-      <title>12 contributions on May 4, 2026</title>
+      <title>3 contributions on May 11, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.61459;0.61559;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="534" y="56" width="10" height="10" rx="2">
-      <title>24 contributions on May 5, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.61222;0.61322;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-3" x="534" y="56" width="10" height="10" rx="2">
+      <title>28 contributions on May 12, 2026</title>
+      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.61222;0.61322;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-3" x="534" y="70" width="10" height="10" rx="2">
-      <title>39 contributions on May 6, 2026</title>
-      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.60984;0.61084;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-4" x="534" y="70" width="10" height="10" rx="2">
+      <title>44 contributions on May 13, 2026</title>
+      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.60984;0.61084;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="534" y="84" width="10" height="10" rx="2">
-      <title>22 contributions on May 7, 2026</title>
+      <title>16 contributions on May 14, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.60746;0.60846;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-4" x="534" y="98" width="10" height="10" rx="2">
-      <title>53 contributions on May 8, 2026</title>
-      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.60508;0.60608;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="534" y="98" width="10" height="10" rx="2">
+      <title>22 contributions on May 15, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.60508;0.60608;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="534" y="112" width="10" height="10" rx="2">
-      <title>No contributions on May 9, 2026</title>
-    </rect>
-    <rect class="cell level-1" x="548" y="28" width="10" height="10" rx="2">
-      <title>12 contributions on May 10, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.61935;0.62035;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="548" y="42" width="10" height="10" rx="2">
-      <title>3 contributions on May 11, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.62173;0.62273;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-3" x="548" y="56" width="10" height="10" rx="2">
-      <title>28 contributions on May 12, 2026</title>
-      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.62411;0.62511;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-4" x="548" y="70" width="10" height="10" rx="2">
-      <title>44 contributions on May 13, 2026</title>
-      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.62649;0.62749;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="548" y="84" width="10" height="10" rx="2">
-      <title>16 contributions on May 14, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.62886;0.62986;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="548" y="98" width="10" height="10" rx="2">
-      <title>22 contributions on May 15, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.63124;0.63224;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-0" x="548" y="112" width="10" height="10" rx="2">
       <title>No contributions on May 16, 2026</title>
     </rect>
-    <rect class="cell level-2" x="562" y="28" width="10" height="10" rx="2">
+    <rect class="cell level-2" x="548" y="28" width="10" height="10" rx="2">
       <title>19 contributions on May 17, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.65027;0.65127;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.61935;0.62035;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="562" y="42" width="10" height="10" rx="2">
+    <rect class="cell level-1" x="548" y="42" width="10" height="10" rx="2">
       <title>8 contributions on May 18, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.64789;0.64889;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.62173;0.62273;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="562" y="56" width="10" height="10" rx="2">
+    <rect class="cell level-1" x="548" y="56" width="10" height="10" rx="2">
       <title>12 contributions on May 19, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.64551;0.64651;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.62411;0.62511;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-2" x="548" y="70" width="10" height="10" rx="2">
+      <title>16 contributions on May 20, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.62649;0.62749;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-4" x="548" y="84" width="10" height="10" rx="2">
+      <title>47 contributions on May 21, 2026</title>
+      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.62886;0.62986;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-4" x="548" y="98" width="10" height="10" rx="2">
+      <title>108 contributions on May 22, 2026</title>
+      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.63124;0.63224;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-2" x="548" y="112" width="10" height="10" rx="2">
+      <title>16 contributions on May 23, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.63362;0.63462;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="562" y="28" width="10" height="10" rx="2">
+      <title>3 contributions on May 24, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.65027;0.65127;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-4" x="562" y="42" width="10" height="10" rx="2">
+      <title>42 contributions on May 25, 2026</title>
+      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.64789;0.64889;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-2" x="562" y="56" width="10" height="10" rx="2">
+      <title>14 contributions on May 26, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.64551;0.64651;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="562" y="70" width="10" height="10" rx="2">
-      <title>16 contributions on May 20, 2026</title>
+      <title>18 contributions on May 27, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.64314;0.64414;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-4" x="562" y="84" width="10" height="10" rx="2">
-      <title>47 contributions on May 21, 2026</title>
-      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.64076;0.64176;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="562" y="84" width="10" height="10" rx="2">
+      <title>8 contributions on May 28, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.64076;0.64176;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-4" x="562" y="98" width="10" height="10" rx="2">
-      <title>108 contributions on May 22, 2026</title>
-      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.63838;0.63938;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="562" y="98" width="10" height="10" rx="2">
+      <title>19 contributions on May 29, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.63838;0.63938;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="562" y="112" width="10" height="10" rx="2">
-      <title>16 contributions on May 23, 2026</title>
+      <title>15 contributions on May 30, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.63600;0.63700;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="576" y="28" width="10" height="10" rx="2">
-      <title>3 contributions on May 24, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.65265;0.65365;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-4" x="576" y="42" width="10" height="10" rx="2">
-      <title>42 contributions on May 25, 2026</title>
-      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.65503;0.65603;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="576" y="56" width="10" height="10" rx="2">
-      <title>14 contributions on May 26, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.65741;0.65841;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="576" y="70" width="10" height="10" rx="2">
-      <title>18 contributions on May 27, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.65978;0.66078;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="576" y="84" width="10" height="10" rx="2">
-      <title>8 contributions on May 28, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.66216;0.66316;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="576" y="98" width="10" height="10" rx="2">
-      <title>19 contributions on May 29, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.66454;0.66554;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="576" y="112" width="10" height="10" rx="2">
-      <title>15 contributions on May 30, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.66692;0.66792;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-0" x="590" y="28" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="576" y="28" width="10" height="10" rx="2">
       <title>No contributions on May 31, 2026</title>
     </rect>
-    <rect class="cell level-1" x="590" y="42" width="10" height="10" rx="2">
+    <rect class="cell level-1" x="576" y="42" width="10" height="10" rx="2">
       <title>6 contributions on June 1, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.68119;0.68219;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.65503;0.65603;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-4" x="590" y="56" width="10" height="10" rx="2">
+    <rect class="cell level-4" x="576" y="56" width="10" height="10" rx="2">
       <title>45 contributions on June 2, 2026</title>
-      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.67881;0.67981;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.65741;0.65841;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="590" y="70" width="10" height="10" rx="2">
+    <rect class="cell level-2" x="576" y="70" width="10" height="10" rx="2">
       <title>14 contributions on June 3, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.67643;0.67743;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.65978;0.66078;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-3" x="590" y="84" width="10" height="10" rx="2">
+    <rect class="cell level-3" x="576" y="84" width="10" height="10" rx="2">
       <title>34 contributions on June 4, 2026</title>
-      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.67405;0.67505;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.66216;0.66316;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="590" y="98" width="10" height="10" rx="2">
+    <rect class="cell level-1" x="576" y="98" width="10" height="10" rx="2">
       <title>8 contributions on June 5, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.67168;0.67268;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.66454;0.66554;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="590" y="112" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="576" y="112" width="10" height="10" rx="2">
       <title>No contributions on June 6, 2026</title>
     </rect>
-    <rect class="cell level-1" x="604" y="28" width="10" height="10" rx="2">
+    <rect class="cell level-1" x="590" y="28" width="10" height="10" rx="2">
       <title>1 contribution on June 7, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.68357;0.68457;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-2" x="590" y="42" width="10" height="10" rx="2">
+      <title>23 contributions on June 8, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.68119;0.68219;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-2" x="590" y="56" width="10" height="10" rx="2">
+      <title>17 contributions on June 9, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.67881;0.67981;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-2" x="590" y="70" width="10" height="10" rx="2">
+      <title>24 contributions on June 10, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.67643;0.67743;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="590" y="84" width="10" height="10" rx="2">
+      <title>3 contributions on June 11, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.67405;0.67505;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-0" x="590" y="98" width="10" height="10" rx="2">
+      <title>No contributions on June 12, 2026</title>
+    </rect>
+    <rect class="cell level-0" x="590" y="112" width="10" height="10" rx="2">
+      <title>No contributions on June 13, 2026</title>
+    </rect>
+    <rect class="cell level-1" x="604" y="28" width="10" height="10" rx="2">
+      <title>1 contribution on June 14, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.68595;0.68695;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="604" y="42" width="10" height="10" rx="2">
-      <title>23 contributions on June 8, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.68832;0.68932;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="604" y="42" width="10" height="10" rx="2">
+      <title>10 contributions on June 15, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.68832;0.68932;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="604" y="56" width="10" height="10" rx="2">
-      <title>17 contributions on June 9, 2026</title>
+      <title>15 contributions on June 16, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.69070;0.69170;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="604" y="70" width="10" height="10" rx="2">
-      <title>24 contributions on June 10, 2026</title>
+      <title>14 contributions on June 17, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.69308;0.69408;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="604" y="84" width="10" height="10" rx="2">
-      <title>3 contributions on June 11, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.69546;0.69646;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="604" y="84" width="10" height="10" rx="2">
+      <title>20 contributions on June 18, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.69546;0.69646;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="604" y="98" width="10" height="10" rx="2">
-      <title>No contributions on June 12, 2026</title>
+    <rect class="cell level-1" x="604" y="98" width="10" height="10" rx="2">
+      <title>9 contributions on June 19, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.69784;0.69884;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="604" y="112" width="10" height="10" rx="2">
-      <title>No contributions on June 13, 2026</title>
+      <title>No contributions on June 20, 2026</title>
     </rect>
-    <rect class="cell level-1" x="618" y="28" width="10" height="10" rx="2">
-      <title>1 contribution on June 14, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.75492;0.75592;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="618" y="28" width="10" height="10" rx="2">
+      <title>No contributions on June 21, 2026</title>
     </rect>
-    <rect class="cell level-1" x="618" y="42" width="10" height="10" rx="2">
-      <title>10 contributions on June 15, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.75254;0.75354;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-3" x="618" y="42" width="10" height="10" rx="2">
+      <title>28 contributions on June 22, 2026</title>
+      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.75254;0.75354;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="618" y="56" width="10" height="10" rx="2">
-      <title>15 contributions on June 16, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.75016;0.75116;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-4" x="618" y="56" width="10" height="10" rx="2">
+      <title>85 contributions on June 23, 2026</title>
+      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.75016;0.75116;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="618" y="70" width="10" height="10" rx="2">
-      <title>14 contributions on June 17, 2026</title>
+      <title>23 contributions on June 24, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.74778;0.74878;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="618" y="84" width="10" height="10" rx="2">
-      <title>20 contributions on June 18, 2026</title>
+      <title>22 contributions on June 25, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.70735;0.70835;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="618" y="98" width="10" height="10" rx="2">
-      <title>9 contributions on June 19, 2026</title>
+      <title>2 contributions on June 26, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.70497;0.70597;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="618" y="112" width="10" height="10" rx="2">
-      <title>No contributions on June 20, 2026</title>
+    <rect class="cell level-1" x="618" y="112" width="10" height="10" rx="2">
+      <title>1 contribution on June 27, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.70259;0.70359;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="632" y="28" width="10" height="10" rx="2">
-      <title>No contributions on June 21, 2026</title>
+    <rect class="cell level-1" x="632" y="28" width="10" height="10" rx="2">
+      <title>2 contributions on June 28, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.75730;0.75830;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-3" x="632" y="42" width="10" height="10" rx="2">
-      <title>28 contributions on June 22, 2026</title>
-      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.75968;0.76068;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="632" y="42" width="10" height="10" rx="2">
+      <title>19 contributions on June 29, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.75968;0.76068;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-4" x="632" y="56" width="10" height="10" rx="2">
-      <title>85 contributions on June 23, 2026</title>
-      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.76205;0.76305;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="632" y="56" width="10" height="10" rx="2">
+      <title>12 contributions on June 30, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.76205;0.76305;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="632" y="70" width="10" height="10" rx="2">
-      <title>23 contributions on June 24, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.74541;0.74641;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="632" y="70" width="10" height="10" rx="2">
+      <title>9 contributions on July 1, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.74541;0.74641;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="632" y="84" width="10" height="10" rx="2">
-      <title>22 contributions on June 25, 2026</title>
+      <title>14 contributions on July 2, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.70973;0.71073;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="632" y="98" width="10" height="10" rx="2">
-      <title>2 contributions on June 26, 2026</title>
+      <title>2 contributions on July 3, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.71211;0.71311;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="632" y="112" width="10" height="10" rx="2">
-      <title>1 contribution on June 27, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.71449;0.71549;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="632" y="112" width="10" height="10" rx="2">
+      <title>No contributions on July 4, 2026</title>
     </rect>
-    <rect class="cell level-1" x="646" y="28" width="10" height="10" rx="2">
-      <title>2 contributions on June 28, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.81676;0.81776;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-0" x="646" y="28" width="10" height="10" rx="2">
+      <title>No contributions on July 5, 2026</title>
     </rect>
-    <rect class="cell level-2" x="646" y="42" width="10" height="10" rx="2">
-      <title>19 contributions on June 29, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.81438;0.81538;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-4" x="646" y="42" width="10" height="10" rx="2">
+      <title>75 contributions on July 6, 2026</title>
+      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.81438;0.81538;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="646" y="56" width="10" height="10" rx="2">
-      <title>12 contributions on June 30, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.76443;0.76543;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-3" x="646" y="56" width="10" height="10" rx="2">
+      <title>33 contributions on July 7, 2026</title>
+      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.76443;0.76543;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="646" y="70" width="10" height="10" rx="2">
-      <title>9 contributions on July 1, 2026</title>
+      <title>9 contributions on July 8, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.74303;0.74403;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="646" y="84" width="10" height="10" rx="2">
-      <title>14 contributions on July 2, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.73114;0.73214;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="646" y="84" width="10" height="10" rx="2">
+      <title>5 contributions on July 9, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.73114;0.73214;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="646" y="98" width="10" height="10" rx="2">
-      <title>2 contributions on July 3, 2026</title>
+      <title>6 contributions on July 10, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.72876;0.72976;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="646" y="112" width="10" height="10" rx="2">
-      <title>No contributions on July 4, 2026</title>
+      <title>No contributions on July 11, 2026</title>
     </rect>
     <rect class="cell level-0" x="660" y="28" width="10" height="10" rx="2">
-      <title>No contributions on July 5, 2026</title>
+      <title>No contributions on July 12, 2026</title>
     </rect>
-    <rect class="cell level-4" x="660" y="42" width="10" height="10" rx="2">
-      <title>75 contributions on July 6, 2026</title>
-      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.81200;0.81300;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-1" x="660" y="42" width="10" height="10" rx="2">
+      <title>9 contributions on July 13, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.81200;0.81300;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-3" x="660" y="56" width="10" height="10" rx="2">
-      <title>33 contributions on July 7, 2026</title>
-      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.76681;0.76781;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="660" y="56" width="10" height="10" rx="2">
+      <title>26 contributions on July 14, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.76681;0.76781;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="660" y="70" width="10" height="10" rx="2">
-      <title>9 contributions on July 8, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.74065;0.74165;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="660" y="70" width="10" height="10" rx="2">
+      <title>20 contributions on July 15, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.74065;0.74165;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="660" y="84" width="10" height="10" rx="2">
-      <title>5 contributions on July 9, 2026</title>
+      <title>9 contributions on July 16, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.73351;0.73451;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="660" y="98" width="10" height="10" rx="2">
-      <title>6 contributions on July 10, 2026</title>
+      <title>5 contributions on July 17, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.72638;0.72738;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="660" y="112" width="10" height="10" rx="2">
-      <title>No contributions on July 11, 2026</title>
-    </rect>
-    <rect class="cell level-0" x="674" y="28" width="10" height="10" rx="2">
-      <title>No contributions on July 12, 2026</title>
-    </rect>
-    <rect class="cell level-1" x="674" y="42" width="10" height="10" rx="2">
-      <title>9 contributions on July 13, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.80962;0.81062;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="674" y="56" width="10" height="10" rx="2">
-      <title>26 contributions on July 14, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.76919;0.77019;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="674" y="70" width="10" height="10" rx="2">
-      <title>20 contributions on July 15, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.73827;0.73927;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="674" y="84" width="10" height="10" rx="2">
-      <title>9 contributions on July 16, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.73589;0.73689;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="674" y="98" width="10" height="10" rx="2">
-      <title>5 contributions on July 17, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.72400;0.72500;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-0" x="674" y="112" width="10" height="10" rx="2">
       <title>No contributions on July 18, 2026</title>
     </rect>
-    <rect class="cell level-1" x="688" y="28" width="10" height="10" rx="2">
+    <rect class="cell level-1" x="674" y="28" width="10" height="10" rx="2">
       <title>3 contributions on July 19, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.82389;0.82489;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.82151;0.82251;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-3" x="688" y="42" width="10" height="10" rx="2">
+    <rect class="cell level-3" x="674" y="42" width="10" height="10" rx="2">
       <title>38 contributions on July 20, 2026</title>
-      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.80724;0.80824;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.80962;0.81062;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-4" x="688" y="56" width="10" height="10" rx="2">
+    <rect class="cell level-4" x="674" y="56" width="10" height="10" rx="2">
       <title>50 contributions on July 21, 2026</title>
-      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.77157;0.77257;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.76919;0.77019;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="688" y="70" width="10" height="10" rx="2">
+    <rect class="cell level-2" x="674" y="70" width="10" height="10" rx="2">
       <title>14 contributions on July 22, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.77395;0.77495;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.73827;0.73927;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-3" x="674" y="84" width="10" height="10" rx="2">
+      <title>29 contributions on July 23, 2026</title>
+      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.73589;0.73689;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-2" x="674" y="98" width="10" height="10" rx="2">
+      <title>16 contributions on July 24, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.72400;0.72500;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-0" x="674" y="112" width="10" height="10" rx="2">
+      <title>No contributions on July 25, 2026</title>
+    </rect>
+    <rect class="cell level-0" x="688" y="28" width="10" height="10" rx="2">
+      <title>No contributions on July 26, 2026</title>
+    </rect>
+    <rect class="cell level-2" x="688" y="42" width="10" height="10" rx="2">
+      <title>14 contributions on July 27, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.80724;0.80824;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-2" x="688" y="56" width="10" height="10" rx="2">
+      <title>19 contributions on July 28, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.77157;0.77257;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="688" y="70" width="10" height="10" rx="2">
+      <title>10 contributions on July 29, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.77395;0.77495;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-3" x="688" y="84" width="10" height="10" rx="2">
-      <title>29 contributions on July 23, 2026</title>
+      <title>31 contributions on July 30, 2026</title>
       <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.77632;0.77732;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-2" x="688" y="98" width="10" height="10" rx="2">
-      <title>16 contributions on July 24, 2026</title>
+      <title>24 contributions on July 31, 2026</title>
       <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.77870;0.77970;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="688" y="112" width="10" height="10" rx="2">
-      <title>No contributions on July 25, 2026</title>
-    </rect>
-    <rect class="cell level-0" x="702" y="28" width="10" height="10" rx="2">
-      <title>No contributions on July 26, 2026</title>
-    </rect>
-    <rect class="cell level-2" x="702" y="42" width="10" height="10" rx="2">
-      <title>14 contributions on July 27, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.80486;0.80586;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="702" y="56" width="10" height="10" rx="2">
-      <title>19 contributions on July 28, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.80249;0.80349;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="702" y="70" width="10" height="10" rx="2">
-      <title>10 contributions on July 29, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.80011;0.80111;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-3" x="702" y="84" width="10" height="10" rx="2">
-      <title>31 contributions on July 30, 2026</title>
-      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.79773;0.79873;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="702" y="98" width="10" height="10" rx="2">
-      <title>24 contributions on July 31, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.79535;0.79635;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-0" x="702" y="112" width="10" height="10" rx="2">
       <title>No contributions on August 1, 2026</title>
     </rect>
-    <rect class="cell level-0" x="716" y="28" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="702" y="28" width="10" height="10" rx="2">
       <title>No contributions on August 2, 2026</title>
     </rect>
-    <rect class="cell level-0" x="716" y="42" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="702" y="42" width="10" height="10" rx="2">
       <title>No contributions on August 3, 2026</title>
     </rect>
-    <rect class="cell level-3" x="716" y="56" width="10" height="10" rx="2">
+    <rect class="cell level-3" x="702" y="56" width="10" height="10" rx="2">
       <title>33 contributions on August 4, 2026</title>
-      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.83341;0.83441;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.80249;0.80349;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="702" y="70" width="10" height="10" rx="2">
+      <title>6 contributions on August 5, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.80011;0.80111;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="702" y="84" width="10" height="10" rx="2">
+      <title>12 contributions on August 6, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.79773;0.79873;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="702" y="98" width="10" height="10" rx="2">
+      <title>3 contributions on August 7, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.79535;0.79635;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-0" x="702" y="112" width="10" height="10" rx="2">
+      <title>No contributions on August 8, 2026</title>
+    </rect>
+    <rect class="cell level-0" x="716" y="28" width="10" height="10" rx="2">
+      <title>No contributions on August 9, 2026</title>
+    </rect>
+    <rect class="cell level-1" x="716" y="42" width="10" height="10" rx="2">
+      <title>3 contributions on August 10, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.83103;0.83203;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="716" y="56" width="10" height="10" rx="2">
+      <title>13 contributions on August 11, 2026</title>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.83341;0.83441;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="716" y="70" width="10" height="10" rx="2">
-      <title>6 contributions on August 5, 2026</title>
+      <title>13 contributions on August 12, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.83578;0.83678;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-1" x="716" y="84" width="10" height="10" rx="2">
-      <title>12 contributions on August 6, 2026</title>
+      <title>7 contributions on August 13, 2026</title>
       <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.83816;0.83916;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="716" y="98" width="10" height="10" rx="2">
-      <title>3 contributions on August 7, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.79297;0.79397;0.94;1" dur="53s" repeatCount="indefinite"/>
+    <rect class="cell level-2" x="716" y="98" width="10" height="10" rx="2">
+      <title>20 contributions on August 14, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.79297;0.79397;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="716" y="112" width="10" height="10" rx="2">
-      <title>No contributions on August 8, 2026</title>
-    </rect>
-    <rect class="cell level-0" x="730" y="28" width="10" height="10" rx="2">
-      <title>No contributions on August 9, 2026</title>
-    </rect>
-    <rect class="cell level-1" x="730" y="42" width="10" height="10" rx="2">
-      <title>3 contributions on August 10, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.84768;0.84868;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="730" y="56" width="10" height="10" rx="2">
-      <title>13 contributions on August 11, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.84530;0.84630;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="730" y="70" width="10" height="10" rx="2">
-      <title>13 contributions on August 12, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.84292;0.84392;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="730" y="84" width="10" height="10" rx="2">
-      <title>7 contributions on August 13, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.84054;0.84154;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="730" y="98" width="10" height="10" rx="2">
-      <title>20 contributions on August 14, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.79059;0.79159;0.94;1" dur="53s" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-0" x="730" y="112" width="10" height="10" rx="2">
       <title>No contributions on August 15, 2026</title>
     </rect>
-    <rect class="cell level-1" x="744" y="28" width="10" height="10" rx="2">
+    <rect class="cell level-1" x="730" y="28" width="10" height="10" rx="2">
       <title>9 contributions on August 16, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.85243;0.85343;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.85005;0.85105;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="744" y="42" width="10" height="10" rx="2">
+    <rect class="cell level-2" x="730" y="42" width="10" height="10" rx="2">
       <title>22 contributions on August 17, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.85481;0.85581;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.84768;0.84868;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-3" x="744" y="56" width="10" height="10" rx="2">
+    <rect class="cell level-3" x="730" y="56" width="10" height="10" rx="2">
       <title>33 contributions on August 18, 2026</title>
-      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.87146;0.87246;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.84530;0.84630;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="744" y="70" width="10" height="10" rx="2">
+    <rect class="cell level-2" x="730" y="70" width="10" height="10" rx="2">
       <title>23 contributions on August 19, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.87384;0.87484;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.84292;0.84392;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-3" x="744" y="84" width="10" height="10" rx="2">
+    <rect class="cell level-3" x="730" y="84" width="10" height="10" rx="2">
       <title>35 contributions on August 20, 2026</title>
-      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.90000;0.90100;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.84054;0.84154;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-3" x="744" y="98" width="10" height="10" rx="2">
+    <rect class="cell level-3" x="730" y="98" width="10" height="10" rx="2">
       <title>30 contributions on August 21, 2026</title>
-      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.89762;0.89862;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.79059;0.79159;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="744" y="112" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="730" y="112" width="10" height="10" rx="2">
       <title>No contributions on August 22, 2026</title>
     </rect>
-    <rect class="cell level-0" x="758" y="28" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="744" y="28" width="10" height="10" rx="2">
       <title>No contributions on August 23, 2026</title>
     </rect>
-    <rect class="cell level-2" x="758" y="42" width="10" height="10" rx="2">
+    <rect class="cell level-2" x="744" y="42" width="10" height="10" rx="2">
       <title>16 contributions on August 24, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.85719;0.85819;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.85481;0.85581;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="758" y="56" width="10" height="10" rx="2">
+    <rect class="cell level-1" x="744" y="56" width="10" height="10" rx="2">
       <title>13 contributions on August 25, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.86908;0.87008;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.87146;0.87246;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="758" y="70" width="10" height="10" rx="2">
+    <rect class="cell level-2" x="744" y="70" width="10" height="10" rx="2">
       <title>14 contributions on August 26, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.87622;0.87722;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.87384;0.87484;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="758" y="84" width="10" height="10" rx="2">
+    <rect class="cell level-2" x="744" y="84" width="10" height="10" rx="2">
       <title>26 contributions on August 27, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.88335;0.88435;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.90000;0.90100;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="758" y="98" width="10" height="10" rx="2">
+    <rect class="cell level-2" x="744" y="98" width="10" height="10" rx="2">
       <title>20 contributions on August 28, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.88573;0.88673;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.89762;0.89862;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="758" y="112" width="10" height="10" rx="2">
+    <rect class="cell level-0" x="744" y="112" width="10" height="10" rx="2">
       <title>No contributions on August 29, 2026</title>
     </rect>
-    <rect class="cell level-1" x="772" y="28" width="10" height="10" rx="2">
+    <rect class="cell level-1" x="758" y="28" width="10" height="10" rx="2">
       <title>2 contributions on August 30, 2026</title>
-      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.86195;0.86295;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#0e4429" keyTimes="0;0.85957;0.86057;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="772" y="42" width="10" height="10" rx="2">
+    <rect class="cell level-2" x="758" y="42" width="10" height="10" rx="2">
       <title>18 contributions on August 31, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.86432;0.86532;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.85719;0.85819;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="772" y="56" width="10" height="10" rx="2">
+    <rect class="cell level-2" x="758" y="56" width="10" height="10" rx="2">
       <title>24 contributions on September 1, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.86670;0.86770;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.86908;0.87008;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-4" x="772" y="70" width="10" height="10" rx="2">
+    <rect class="cell level-4" x="758" y="70" width="10" height="10" rx="2">
       <title>45 contributions on September 2, 2026</title>
-      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.87859;0.87959;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#39d353" keyTimes="0;0.87622;0.87722;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="772" y="84" width="10" height="10" rx="2">
+    <rect class="cell level-2" x="758" y="84" width="10" height="10" rx="2">
       <title>19 contributions on September 3, 2026</title>
-      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.88097;0.88197;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.88335;0.88435;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-3" x="772" y="98" width="10" height="10" rx="2">
+    <rect class="cell level-3" x="758" y="98" width="10" height="10" rx="2">
       <title>33 contributions on September 4, 2026</title>
-      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.88811;0.88911;0.94;1" dur="53s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#26a641" keyTimes="0;0.88573;0.88673;0.94;1" dur="53s" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-0" x="758" y="112" width="10" height="10" rx="2">
+      <title>No contributions on September 5, 2026</title>
+    </rect>
+    <rect class="cell level-0" x="772" y="28" width="10" height="10" rx="2">
+      <title>No contributions on September 6, 2026</title>
+    </rect>
+    <rect class="cell level-0" x="772" y="42" width="10" height="10" rx="2">
+    </rect>
+    <rect class="cell level-0" x="772" y="56" width="10" height="10" rx="2">
+    </rect>
+    <rect class="cell level-0" x="772" y="70" width="10" height="10" rx="2">
+    </rect>
+    <rect class="cell level-0" x="772" y="84" width="10" height="10" rx="2">
+    </rect>
+    <rect class="cell level-0" x="772" y="98" width="10" height="10" rx="2">
     </rect>
     <rect class="cell level-0" x="772" y="112" width="10" height="10" rx="2">
-      <title>No contributions on September 5, 2026</title>
     </rect>
   </g>
   <g aria-label="Contribution intensity legend">
