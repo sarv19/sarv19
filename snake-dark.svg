@@ -1427,10 +1427,12 @@
     <rect class="cell level-0" x="758" y="112" width="10" height="10" rx="2">
       <title>No contributions on September 26, 2026</title>
     </rect>
-    <rect class="cell level-0" x="772" y="28" width="10" height="10" rx="2">
-      <title>No contributions on September 27, 2026</title>
+    <rect class="cell level-2" x="772" y="28" width="10" height="10" rx="2">
+      <title>15 contributions on September 27, 2026</title>
+      <animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#006d32" keyTimes="0;0.86195;0.86295;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="772" y="42" width="10" height="10" rx="2">
+      <title>No contributions on September 28, 2026</title>
     </rect>
     <rect class="cell level-0" x="772" y="56" width="10" height="10" rx="2">
     </rect>
