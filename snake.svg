@@ -1427,10 +1427,12 @@
       <title>3 contributions on October 17, 2026</title>
       <animate attributeName="fill" values="#9be9a8;#9be9a8;#ebedf0;#ebedf0;#9be9a8" keyTimes="0;0.89286;0.89386;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="772" y="28" width="10" height="10" rx="2">
-      <title>No contributions on October 18, 2026</title>
+    <rect class="cell level-1" x="772" y="28" width="10" height="10" rx="2">
+      <title>1 contribution on October 18, 2026</title>
+      <animate attributeName="fill" values="#9be9a8;#9be9a8;#ebedf0;#ebedf0;#9be9a8" keyTimes="0;0.86195;0.86295;0.94;1" dur="53s" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-0" x="772" y="42" width="10" height="10" rx="2">
+      <title>No contributions on October 19, 2026</title>
     </rect>
     <rect class="cell level-0" x="772" y="56" width="10" height="10" rx="2">
     </rect>
